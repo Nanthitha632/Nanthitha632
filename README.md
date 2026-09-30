@@ -1,35 +1,42 @@
-# Hi, I'm Nanthitha Vijayan 
+# Hi, I'm Nanthitha Vijayan 👋
 
-### Data Analyst | Business Analytics | Business Intelligence | Machine Learning
+### Supply Chain Analytics | Business Intelligence | Applied AI
 
-I’m a Business Analytics graduate passionate about transforming complex data into actionable business insights and building data-driven solutions that support better decision-making.
+Business Analytics graduate from the University of North Texas, focused on using data to improve demand planning, inventory visibility, procurement decisions, and supplier performance.
 
-##  Technical Skills
+My projects combine SQL, Python, dashboards, automation, and evidence-grounded AI to investigate operational problems and evaluate business tradeoffs.
 
-**Data Analysis:** SQL, Python, R, Advanced Excel, PySpark  
-**Visualization & BI:** Power BI, Tableau, DAX  
-**Machine Learning:** Scikit-learn, XGBoost, LightGBM, Random Forest, SHAP  
-**Data & Cloud:** Databricks, Snowflake, Azure, PostgreSQL  
-**Analytics:** Predictive Analytics, Statistical Analysis, Forecasting, A/B Testing, Customer Analytics  
-**AI:** Generative AI, RAG, Explainable AI, Natural-Language-to-SQL
+## 🛠️ Technical Skills
 
-##  Featured Projects
+- **Analytics:** SQL, Python, Advanced Excel, demand forecasting, inventory analysis
+- **Business Intelligence:** Power BI, Power Query, DAX, Tableau
+- **Data & Automation:** PostgreSQL, Databricks, Apache Airflow, Docker, Git
+- **Applied AI:** LangGraph, LangChain, RAG, Ollama, Streamlit
+- **Supply Chain:** Safety stock, replenishment, supplier lead times, service KPIs, procurement and inventory workflow simulation
 
-###  5G Network Failure Prediction & Analytics
-End-to-end telecommunications analytics and machine-learning solution for predicting network failures within the next 30 minutes.
+## 💊 Featured Project: Pharmacy ShelfGuard
 
-- Built large-scale telemetry processing and analytics workflows using PySpark, SQL and Databricks
-- Developed Logistic Regression and XGBoost failure-prediction models
-- Applied class-imbalance handling, time-based validation and model evaluation
-- Used SHAP-based explainability to identify network KPIs driving failure risk
-- Designed the workflow for operational risk monitoring and proactive network maintenance
+An end-to-end synthetic pharmacy supply chain simulation covering customer demand, forecasting, purchase proposals, goods receipts, inventory, and exception monitoring.
 
-**Tech:** Python | PySpark | SQL | Databricks | XGBoost | Scikit-learn | SHAP | Power BI
+- Built Python forecasts and lead-time-aware safety stock recommendations.
+- Modeled procurement and inventory processes in PostgreSQL, inspired by SAP S/4HANA MM concepts.
+- Automated the daily workflow using Apache Airflow.
+- Created a Power BI control tower for service, inventory, forecasts, and supplier exceptions.
+- Built a local LangGraph agent with filtered vector RAG to investigate shortages and potential transfer donors.
+- Added evidence-grounded case questions, an audit trail, and four focused scenario checks.
 
-## 📊 What I Work With
+**What I learned:** Evaluate service and inventory tradeoffs using historical simulations, distinguish targets from achieved results, and keep human approval in operational AI decisions.
 
-Data Cleaning & Validation • EDA • ETL/ELT • Predictive Modeling • Machine Learning • KPI Analytics • Dashboard Development • Data Visualization • Business Intelligence • Explainable AI
+[Explore Pharmacy ShelfGuard →](https://github.com/Nanthitha632/Pharmacy-ShelfGuard)
 
-## 📫 Connect With Me
+## 📡 5G Network Failure Prediction & Analytics
 
-**LinkedIn:** Nanthitha Vijayan
+A network reliability analytics project using Python, Databricks, machine learning, and Power BI to investigate failure patterns and communicate operational risks.
+
+[Explore the project →](https://github.com/Nanthitha632/5G-Network-Failure-Prediction-Analytics)
+
+## 🎯 Career Focus
+
+Supply Chain Analyst · Procurement Analyst · Inventory Analyst · Supply Chain Analytics
+
+Interested in turning operational data into clear decisions and practical tools that analysts can explain, validate, and use.
