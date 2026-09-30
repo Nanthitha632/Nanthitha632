@@ -1,4 +1,4 @@
-# Hi, I'm Nanthitha Vijayan 👋
+# Hi, I'm Nanthitha Vijayan 
 
 ### Supply Chain Analytics | Business Intelligence | Applied AI
 
